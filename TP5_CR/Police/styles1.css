@@ -1,0 +1,24 @@
+h1{                            /*Mettre la couleur rouge aux titres h1*/
+    color: red; /*Couleur texte en rouge*/
+    font-family: 'Arial Black', Arial, sans-serif; /*police d'écriture Arial Black*/
+    font-size: 2em; /*Taille police*/
+    text-align: center; /*Aligner le texte au centre*/
+}
+
+h2{                             /*Mettre la couleur verte aux titres h2*/
+    color: blue;
+    font-family: 'Arial', sans-serif;
+    font-size: 1.4em;/*Taille de la police*/
+    font-weight: bold; /*Texte en gras*/
+
+}
+
+p{   
+    font-family: Verdana, sans-serif;                            /*Mettre la couleur bleue aux paragraphes*/
+    color: black;
+    font-size: 1em;
+}
+
+.p2, .p4{                        /*Mettre la couleur orange aux paragraphes 2 et 4*/
+    color: orange;
+}

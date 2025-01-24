@@ -1,0 +1,17 @@
+h1{                            /*Mettre la couleur rouge aux titres h1*/
+    color: red;
+
+}
+
+h2{                             /*Mettre la couleur verte aux titres h2*/
+    color: green;
+
+}
+
+p{                               /*Mettre la couleur bleue aux paragraphes*/
+    color: blue;
+}
+
+.p2, .p4{                        /*Mettre la couleur orange aux paragraphes 2 et 4*/
+    color: orange;
+}
